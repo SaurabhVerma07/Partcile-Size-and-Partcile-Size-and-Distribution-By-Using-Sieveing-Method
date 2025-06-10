@@ -1,4 +1,4 @@
-# Partcile-Size-and-Partcile-Size-and-Distribution-By-Using-Sieveing-Method
+# Particle-Size-and-Particle-Size-and-Distribution-By-Using-Sieveing-Method
 The sieving method is a widely used technique to determine the particle size and particle size distribution of granular materials. This method involves the mechanical separation of particles based on their size using a series of sieves with progressively smaller mesh openings.
 A stack of standard test sieves is arranged from the largest opening at the top to the smallest at the bottom. The sample material is placed on the top sieve and subjected to shaking or vibrating, allowing particles to pass through the sieves according to their sizes.
 
